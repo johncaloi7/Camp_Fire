@@ -7,7 +7,7 @@ Second thing to do?
 -"npm install" to install the required packages 
 
 To initiate it.
--npm start and just go your browser and go to localhost:3000
+-npm start and just go to your browser and go to localhost:3000
 
 
 And that is all. :)
