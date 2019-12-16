@@ -1,0 +1,20 @@
+<% include ./partials/header %>
+
+<div class="center">
+	<form action="/login" method="POST">
+		<div class="loginEdge bg-primary border border-dark mb-4">
+			<h3 class="py-2 ml-2 text-white">Sign In To Get Started</h3>
+		</div>
+		Username:
+		<input class="mb-4" type="text" name="username" placeholder="username goes here">
+		<br>
+		Password:
+		<input type="password" name="password" placeholder="password goes here">
+		<br>
+		<input class="btn btn-md btn-primary border border-dark mt-5" type="submit" value="Login Account">
+	</form>
+</div>
+		
+	
+
+<% include ./partials/footer %>

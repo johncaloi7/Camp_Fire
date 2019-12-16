@@ -1,0 +1,67 @@
+body {
+	padding-top: 80px;
+	padding-bottom: 50px;
+}
+
+.jumbotron {
+    background: url(https://images.pexels.com/photos/1454789/pexels-photo-1454789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 250% 90%;
+}
+
+.delete {
+	display: inline;
+}
+
+.top {
+	margin-top: 75px;
+}
+
+.checked {
+    color: orange;
+}
+
+#delete-form {
+	display: inline;
+}
+
+.edge {
+	border-radius: 5px;
+	max-width: 600px;
+}
+
+
+.loginEdge {
+	border-radius: 5px;
+	max-width: 300px;
+}
+
+.center {
+    height: 700px;
+    width: 800px;
+   
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -120px;
+    margin-left: -200px;
+}
+
+.followhead {
+    border-radius: 10px;
+}
+
+.follow {
+    border-radius: 10px;
+    width: 350px;
+}
+
+.social {
+    font-size: 30px;
+}
+
+.shadow {
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
